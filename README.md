@@ -12,5 +12,5 @@ Aunque mi preferencia es Nodejs y las DB.
 
 <h2>Proyectos...</h2>
 
-<h2>Contactos...</h2>
+<h2>Contactos:</h2>
 ...
