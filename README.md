@@ -14,5 +14,5 @@ Aunque mi preferencia es Nodejs y las DB.
 
 <h2>Contactos:</h2>
 <ol>Email: <a href=mailto>luisededios@gmail.com</ol>
-<h4>Twitter: <a href=mailto>algo...</a>
-<h4>LinkedIn: <a href=mailto>algo...</a>
+<ul>Twitter: <a href=mailto>algo...</ul>
+<il>LinkedIn: <a href=mailto>algo...</il>
