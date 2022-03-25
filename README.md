@@ -13,4 +13,6 @@ Aunque mi preferencia es Nodejs y las DB.
 <h2>Proyectos...</h2>
 
 <h2>Contactos:</h2>
-Email: <a href=mailto>luisededios@sgmail.com</a>
+Email: <a href=mailto>luisededios@gmail.com</a>
+Twiter: <a href=mailto>algo...</a>
+LinkedIn: <a href=mailto>algo...</a>
