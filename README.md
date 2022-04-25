@@ -4,7 +4,7 @@
 <h2>Actualmente trabajo sobre Debian Linux, y me desempeño...</h2>
 
 - Back End: Node.js
-- BD: PostGreSQL, MySQL, SQLite
+- BD: PostGreSQL, MySQL, SQLite y MongoDB
 - Front End: Reactjs(estudiando...)
 - Python + Qt
 
