@@ -6,7 +6,7 @@
 - Back End: Node.js, Django.
 - BD: PostGreSQL, MySQL, SQLite y MongoDB
 - Front End: Reactjs.
-- Python3, C, C++
+- C, C++, Python3.
 
 <h2>Proyectos...</h2>
 Plataforma de Trading Automático Django + Reactjs.
