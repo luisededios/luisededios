@@ -14,6 +14,6 @@ Django + Reactjs Automated Trading Platform.
 <h2>Contacts:</h2>
 <ul type="A">
 <li>Email: <a href=mailto>luisededios@gmail.com</a></li>
-<li>Twitter: <a href=mailto>algo...</a></li>
+<li>Twitter: <a href=mailto></a></li>
 <li>LinkedIn: <a href=mailto>www.linkedin.com/in/luis-esteban-de-dios-nuñez-625670200</a></li>
 </ul><br>
